@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Theater Studio",
+  "description": "Professional web-based visual animation builder for cinematic shadow theater storytelling, featuring articulated silhouette character rigging, backlighting, volumetric light, and video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
